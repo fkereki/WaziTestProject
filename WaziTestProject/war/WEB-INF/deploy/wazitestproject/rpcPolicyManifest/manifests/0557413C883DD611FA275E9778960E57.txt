@@ -1,0 +1,2 @@
+serviceClass: com.kereki.waziTestProject.client.GreetingService
+path: 67F2C776805024DC40391ABA9EF259BB.gwt.rpc
